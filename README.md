@@ -1,11 +1,11 @@
 <h3>Ricardo Lazarini</h3>
 <h4>Analise e desenvolvimento de sistemas</h4>
 <h4> Cursando Pós-graduação em Estatística aplicada </h4>
-<h3>Frontend</h3>
-<hp>HTML -  CSS - Bootstrap </p>
+<h3>Frontend <small>HTML -  CSS - Bootstrap</small></h3>
 
-<h6>Backend</h6>
-<h3> C# - ASP.NET - Python - </h3>
+
+<h3>Backend <small> C# - ASP.NET - Python  </small></h3>
+
 
 
 Anallises de dados
