@@ -2,7 +2,11 @@ Nome
 
 Profissao
 
-Tecnologias
+Frontend
+<p>HTML -  CSS - Bootstrap </p>
+Backend
+
+Anallises de dados
 
 imagens das tecnologias
 
