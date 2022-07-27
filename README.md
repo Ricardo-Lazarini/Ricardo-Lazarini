@@ -11,6 +11,8 @@
 
 <h3>Backend C# - ASP.NET - Python  </h3 style="color:red;">
 
+## Conectar
+Facebook , Instagran , Linkedin 
 
 
 Anallises de dados
