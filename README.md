@@ -1,11 +1,11 @@
-<h1>Ricardo Lazarini</h1>
+<h5>Ricardo Lazarini</h5>
 <br>
-<h2>Analise e desenvolvimento de sistemas</h2>
-<h3> Fazendo pós graduação em Estatística aplicada </h3>
-<h1>Frontend</h1>
-<h3>HTML -  CSS - Bootstrap </h3>
+<h6>Analise e desenvolvimento de sistemas</h6>
+<h6> Fazendo pós graduação em Estatística aplicada </h6>
+<h6>Frontend</h6>
+<hp>HTML -  CSS - Bootstrap </p>
 
-<h1>Backend</h1>
+<h6>Backend</h6>
 <h3> C# - ASP.NET - Python - </h3>
 
 
