@@ -9,14 +9,22 @@
 <h3>Frontend <h6>HTML -  CSS - Bootstrap</h6></h3>
 
 
-<h3>Backend C# - ASP.NET - Python  </h3 style="color:red;">
+<h3>Backend C# - ASP.NET - Python  </h3>
+[ C#  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+Python <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  ]    
+* Third item
+* Fourth item
+
+
 
 ## Conectar
 <h3>Linkedin</h3>
 <a href="https://www.youtube.com/" target="_blank">
-  Youtube
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
 </a>
 
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
 Facebook , Instagran , Linkedin 
 
 
