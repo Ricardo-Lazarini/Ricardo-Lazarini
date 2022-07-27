@@ -1,13 +1,15 @@
 
 ## EM CONSTRUÇÃO - Aguarde mais um momento ...
-
-<h3>Ricardo Lazarini</h3>
-<h4>Analise e desenvolvimento de sistemas</h4>
+<div align="left">
+  <h3>Ricardo Lazarini</h3>
+</div>
+- I live in :brazil:, northeast :sunglasses::sunrise 
+<h4>Analise e desenvolvimento de sistemas</h4>:computer:
 <h4> Cursando Pós-graduação em Estatística aplicada </h4>
 <h3>Frontend <h6>HTML -  CSS - Bootstrap</h6></h3>
 
 
-<h3>Backend <small> C# - ASP.NET - Python  </small></h3>
+<h3>Backend C# - ASP.NET - Python  </h3 style="color:red;">
 
 
 
