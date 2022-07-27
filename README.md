@@ -1,7 +1,7 @@
-<h4>Ricardo Lazarini</h4>
-<h5>Analise e desenvolvimento de sistemas</h5>
-<h6> Fazendo pós graduação em Estatística aplicada </h6>
-<h6>Frontend</h6>
+<h3>Ricardo Lazarini</h3>
+<h4>Analise e desenvolvimento de sistemas</h4>
+<h4> Cursando Pós-graduação em Estatística aplicada </h4>
+<h3>Frontend</h3>
 <hp>HTML -  CSS - Bootstrap </p>
 
 <h6>Backend</h6>
