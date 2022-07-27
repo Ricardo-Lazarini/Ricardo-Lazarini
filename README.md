@@ -14,3 +14,5 @@ Anallises de dados
 imagens das tecnologias
 
 Projetos
+Meu site em asp net
+analises no power bi
