@@ -3,7 +3,7 @@ Nome
 Profissao
 
 Frontend
-<p>HTML -  CSS - Bootstrap </p>
+<h3>HTML -  CSS - Bootstrap </h3>
 Backend
 
 Anallises de dados
