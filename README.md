@@ -1,3 +1,6 @@
+
+## EM CONSTRUÇÃO - Aguarde mais um momento ...
+
 <h3>Ricardo Lazarini</h3>
 <h4>Analise e desenvolvimento de sistemas</h4>
 <h4> Cursando Pós-graduação em Estatística aplicada </h4>
