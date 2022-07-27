@@ -13,7 +13,7 @@
 
 ## Conectar
 <h3>Linkedin</h3>
-<a href="https://www.youtube.com/" target="blank">
+<a href="https://www.youtube.com/" target="_blank">
   Youtube
 </a>
 
