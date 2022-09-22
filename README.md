@@ -2,8 +2,9 @@
 
 ##### Analise e desenvolvimento de sistemas 
 ##### Cursando Pós-graduação em Estatística aplicada
-##### Power Bi - Excel (VBA - Macro)
+##### Me dedicando ao maximo para aprender C# - ASP.NET - WPF 
 ##### Aprendendo Javascript
+##### Power Bi - Excel (VBA - Macro)
 ##### Backend - Frontend - Banco de dados - Analises de dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height="40" width="40" style="max-width:100%;"></img>
