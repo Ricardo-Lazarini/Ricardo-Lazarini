@@ -1,10 +1,7 @@
 <h3>Ricardo Lazarini</h3>
 
 ##### Analise e desenvolvimento de sistemas 
-##### Cursando Pós-graduação em Estatística aplicada
-##### Me dedicando ao maximo para aprender C# - ASP.NET - WPF 
-##### Aprendendo Javascript
-##### Power Bi - Excel (VBA - Macro)
+##### Python - C# - Javascript - HTML - CSS - Bootstrap - Power Bi
 ##### Backend - Frontend - Banco de dados - Analises de dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height="40" width="40" style="max-width:100%;"></img>
