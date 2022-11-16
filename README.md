@@ -1,8 +1,8 @@
 <h3>Ricardo Lazarini</h3>
 
 ##### Analise e desenvolvimento de sistemas 
-##### Python - C# - Javascript - HTML - CSS - Bootstrap - Power Bi
-##### Backend - Frontend - Banco de dados - Analises de dados
+##### Python  |  C# | Javascript | HTML | CSS | Bootstrap | Power Bi
+##### Backend | Frontend | Banco de dados | Analises de dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height="40" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="40" width="40" style="max-width:100%;"></img>
